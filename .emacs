@@ -56,21 +56,6 @@ Uses `current-date-time-format' for the formatting the date/time."
 (global-set-key "\C-cdt" 'insert-current-date-time)
 (global-set-key "\C-ctm" 'insert-current-time)
 (put 'downcase-region 'disabled nil)
-(custom-set-variables
- ;; custom-set-variables was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- '(org-agenda-files
-   (quote
-    ("~/todolist/datacap.org" "~/todolist/ICN.org" "~/todolist/tasks.org" "~/todolist/org-mode.org" "~/todolist/emacs.org" "~/todolist/elisp.org"))))
-(custom-set-faces
- ;; custom-set-faces was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- )
-
 
 ;;show the line number and column number in the minibuffer
 (setq column-number-mode t)
