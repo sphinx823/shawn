@@ -1,0 +1,18 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".sachachua.com"
+  [url-cookie "__cfduid" "de013b8c9bc97b4eea7757138666afd2a1419231283" "22 Dec 15 06:54:43 [GMT]" "/" ".sachachua.com" nil]
+  [url-cookie "HttpOnly" nil "22 Dec 15 06:54:43 [GMT]" "/" ".sachachua.com" nil])
+ (".solidot.org"
+  [url-cookie "solidot_theme" "green" "22-Jan-2015 05:08:28.00 GMT" "/" ".solidot.org" nil]
+  [url-cookie "solidot_solidot" "UTALMQVjBTRRfQQiXWsNZA9sC24DcQMjAzFed1shUGtXaVNmAFgHPgJmDy1QOAF5BmsBZwo0Xz0Hdgw2BGRQYgo5DmZaMVMwUmAEbF8%2BBmVRZwtvBTQFOFE%2BBDJdMw02D24LbAM3A2gDMV5iW2RQN1c2UzAAMwc2AjsPLVA4AXkGawFlCjZfPQd2DDoEJFBcCjwOMFo3U3NSZgQsXysGdFFqC3gFbAU%2FUTMEa11zDWcPbAtmA30DYQNkXjxbfFAzVzVTOAApB2YCNw88UCEBMQYiAW4KN183B24McQQhUHAKOA4mWgxTYFJkBDpfNgYiUXMLMAUlBTRRPwRrXXMNAA8OCxgDfAMVAzleZVsxUHFXJFMzAHQHbQIzDzxQOQEoBj0BNQp1X3MHCwwyBDdQdwo0DiJaOlN1UnoEfV9jBj9Raws6BWIFPFE3BGddZA1mD2oLZANhA2sDJ14%2BW2tQOFckU30AdAcyAnAPUFBnAWsGJQE1CiRfPAcnDGkEZFA5Cn8OdlpoU3w%3D" "19-Jan-2015 09:46:42.00 GMT" "/" ".solidot.org" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
