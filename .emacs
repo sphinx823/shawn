@@ -25,7 +25,7 @@
 (global-set-key "\C-cb" 'org-iswithhb)
 
 ;; load emacs tasks
-(find-file "~/todolist/ICN.org")
+;;(find-file "~/todolist/ICN.org")
 ;;(show-subtree)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
